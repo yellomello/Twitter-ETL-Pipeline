@@ -1,4 +1,4 @@
-# Twitter-ETL-Pipeline
+# Twitter-ETL-Pipeline (Please read the Twitter-ETL.pdf from this repo for full documentation)
 
 ## Overview
 
